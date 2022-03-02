@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Mandy Li
 
 You can use the [editor on GitHub](https://github.com/mandyli2021/mandyli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
